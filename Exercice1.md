@@ -1,8 +1,9 @@
 
 
-**Création de DATA**
+# Création de DATA
 
 
+![image](https://github.com/user-attachments/assets/8cf7fd33-8924-484b-a67a-edc4ad943939)
 
 
 ![image](https://github.com/user-attachments/assets/c4f05965-d4ef-4344-be79-37a7018edd6c)
@@ -33,7 +34,7 @@
 ![image](https://github.com/user-attachments/assets/7de02a12-9295-4e84-a580-5661c719fbf8)
 
 
-**Création du swap**
+# Création du swap
 
 
 
@@ -61,7 +62,7 @@
 
 
 
-**Montage automatique de DATA**
+# Montage automatique de DATA
 
 
 
