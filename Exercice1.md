@@ -2,6 +2,9 @@
 
 **Création de DATA**
 
+
+
+
 ![image](https://github.com/user-attachments/assets/c4f05965-d4ef-4344-be79-37a7018edd6c)
 
 
@@ -32,6 +35,9 @@
 
 **Création du swap**
 
+
+
+
 ![image](https://github.com/user-attachments/assets/c172254b-7fb4-47fc-a1a0-85ff214d3978)
 
 
@@ -51,4 +57,31 @@
 
 
 ![image](https://github.com/user-attachments/assets/5fe591f5-3ad2-4031-8e61-00b6ada8cc9f)
+
+
+
+
+**Montage automatique de DATA**
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/a6a74c43-b569-4859-b78c-3ed3b454893d)
+
+![image](https://github.com/user-attachments/assets/a3aa1397-5137-4a94-8682-a626feece157)
+
+![image](https://github.com/user-attachments/assets/94015b95-3d8a-4187-bb74-b724c50ef795)
+
+
+![image](https://github.com/user-attachments/assets/0cf5a7ce-29b2-469b-a2fa-6bc5817fb390)
+
+
+![image](https://github.com/user-attachments/assets/104014bc-c457-46ee-b3f0-cb291d36e130)
+
+
+
+
+
+
 
